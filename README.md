@@ -16,6 +16,10 @@ Whether you’re nostalgic for classic desktop companions or just want a friendl
 
 ===========================================================
 
+![1](https://github.com/user-attachments/assets/8a4439e2-8c0a-4fc7-9463-b47e31184c15)
+
+===========================================================
+
 Controls:
 
 F6 & F7 Keys can toggle the UIs on and off.
