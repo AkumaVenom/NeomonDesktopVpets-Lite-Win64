@@ -5,15 +5,19 @@ Download v0.0.1.3a: https://drive.google.com/file/d/1rNV2-TcU82mFkXjoBXfhRV4-kTQ
 Meet new digital companions with Neomon Desktop Vpets Lite — an AI-powered desktop experience that brings interactive Neomon creatures to life right on your screen. Designed to enhance your workspace with personality and charm, this lightweight version of the full Neomon Vpets game focuses on connection, conversation, and companionship while the full version will focus on taking care of Neomon and battling with Neomon while still using Chat LLMs.
 
 💬 LLM AI-Driven Interaction
+
 Powered by GGUF LLM models and native text-to-speech technology, your Neomon companions are more than just animated models — they talk & have unique personallities, they respond to you with voices, and can build unique bonds with you over time.
 
 🖥️ Seamless Desktop Integration
+
 Neomon companions float naturally across your desktop, reacting to your presence and engaging with you as you work, play, or relax.
 
 🧡 All Characters Unlocked
+
 Unlike the full version of the Neomon Desktop Vpets game, Lite skips the battles and caretaking — and unlocks every Neomon from the start, so you can instantly befriend your favorites.
 
 🌟 Perfect for Fans of Virtual Pets, AI, and Digital Aesthetics
+
 Whether you’re nostalgic for classic desktop companions or just want a friendly presence while you work, Neomon Desktop Vpets Lite offers an imaginative, emotionally engaging experience like no other.
 
 ===========================================================
