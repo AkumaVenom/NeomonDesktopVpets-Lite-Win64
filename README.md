@@ -42,7 +42,7 @@ F12 key makes the app window disable being on top.
 
 ===========================================================
 
-It is highly recommended to install Cuda 12.2 for use with the LLM and if Cuda is not detected it will use CPU insead.
+It is highly recommended to install Cuda 12.2 for use with the LLM and if Cuda is not detected it will use CPU instead. 
 
 https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
