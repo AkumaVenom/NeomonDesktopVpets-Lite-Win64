@@ -1,6 +1,14 @@
 # NeomonDesktopVpets-Lite-Win64
 
-Download v0.0.1.3a: https://drive.google.com/file/d/1rNV2-TcU82mFkXjoBXfhRV4-kTQ9916Q/view?usp=sharing
+Download v0.0.1.4a: https://drive.google.com/file/d/1YrFWGXKUCLKJVXbicibGu_1NvSmhkCx5/view?usp=sharing
+
+===========================================================
+
+v0.0.1.4a Update
+
+Bug fix for hiding the chat screen UI
+
+===========================================================
 
 Meet new digital companions with Neomon Desktop Vpets Lite, an AI powered desktop experience that brings interactive Neomon creatures to life right on your screen. Designed to enhance your workspace with personality and charm, this lightweight version of the full Neomon Vpets game focuses on connection, conversation, and companionship while the full version will focus on taking care of Neomon and battling with Neomon while still using Chat LLMs.
 
