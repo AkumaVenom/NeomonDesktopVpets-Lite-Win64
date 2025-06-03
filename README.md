@@ -100,6 +100,6 @@ Save Data Info:
 
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\NeomonDesktopVpet\Saved\SaveGames
 
-Save01.sav file is all the history of chat you have had with every Neomon, Delete it to start over with them or you can back it up.
+Each Neomon has its own chat history save file
 
 ===========================================================
