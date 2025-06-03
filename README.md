@@ -1,12 +1,18 @@
 # NeomonDesktopVpets-Lite-Win64
 
-Download v0.0.1.4a: https://drive.google.com/file/d/1YrFWGXKUCLKJVXbicibGu_1NvSmhkCx5/view?usp=sharing
+Download v0.0.1.5a: https://drive.google.com/file/d/1xsF3w82N9RExeQHbVst6ej2BlYvGodyh/view?usp=sharing
 
 ===========================================================
 
-v0.0.1.4a Update
+v0.0.1.5a Update
 
-Bug fix for hiding the chat screen UI
+-Optimized and changed code for saving & loading LLM chat histories, now has very fast loading of saved chat history.
+
+-Each Neomon now has its own chat history save file instead of one save file for all, this way you can now back up or delete individual chat histories of any Neomon that you want.
+
+-Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
+
+-Handles larger contexts better now. (faster LLM text generation than before when contexts becomes big)
 
 ===========================================================
 
