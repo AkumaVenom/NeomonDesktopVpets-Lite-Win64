@@ -12,6 +12,8 @@ v0.0.1.7a Update:
 
 -Recommened VRAM 8GB + System RAM 32GB
 
+-Now uses a custom 32K llama3 gguf model
+
 ===========================================================
 
 Meet new digital companions with Neomon Desktop Vpets Lite, an AI powered desktop experience that brings interactive Neomon creatures to life right on your screen. Designed to enhance your workspace with personality and charm, this lightweight version of the full Neomon Vpets game focuses on connection, conversation, and companionship while the full version will focus on taking care of Neomon and battling with Neomon while still using Chat LLMs.
