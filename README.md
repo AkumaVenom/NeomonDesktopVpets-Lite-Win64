@@ -7,6 +7,7 @@ Download v0.0.1.6a: https://drive.google.com/file/d/1jOc8JX2im02KSGHkjgOu0sk8KN1
 ===========================================================
 
 v0.0.1.7a Update:
+
 -changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.1.6a will still be available to download for people with lower system requirements
 
 -Recommened VRAM 8GB + System RAM 32GB
