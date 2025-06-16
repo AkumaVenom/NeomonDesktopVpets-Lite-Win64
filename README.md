@@ -1,8 +1,15 @@
 # NeomonDesktopVpets-Lite-Win64
 
+Download v0.0.1.7a: https://drive.google.com/file/d/1mKs79Ka0MEhgQZGiHrYFRUN-pjiDyIbD/view?usp=sharing
+
 Download v0.0.1.6a: https://drive.google.com/file/d/1jOc8JX2im02KSGHkjgOu0sk8KN1jTseG/view?usp=sharing
 
--Fixed a sound issue when app window becomes unfocused, the speech audio could not be heard.
+===========================================================
+
+v0.0.1.7a Update:
+-changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.1.6a will still be available to download for people with lower system requirements
+
+-Recommened VRAM 8GB + System RAM 32GB
 
 ===========================================================
 
@@ -62,9 +69,9 @@ work in progress that is currently in the early alpha stage at the moment.
 
 Recommended System Requirements:
 
-Ram: 16GB
+Ram: 32GB
 
-Video Ram: 6GB
+Video Ram: 8GB
 
 SSD/HDD: 10GB
 
